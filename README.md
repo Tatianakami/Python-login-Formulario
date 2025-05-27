@@ -85,4 +85,4 @@ Sugira novos recursos
 📄 Licença
 MIT License - Disponível para uso comercial e pessoal.
 
-Desenvolvido com ❤️ por Tatiana Kami | Documentação Completa | Changelog
+Desenvolvido com ❤️ por Tatiana Kami 
