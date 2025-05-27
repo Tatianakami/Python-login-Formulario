@@ -28,8 +28,7 @@ CustomTkinter	5.2.2	Interface gráfica moderna
 Pandas	2.1.4	Manipulação de dados	
 PyMuPDF	1.23.8	Visualização de PDF	
 Pillow	10.1.0	Processamento de imagens	
-🚀 Como Executar (Atualizado)
-bash
+🚀 Como Executar 
 # Clone o repositório
 git clone https://github.com/seu-usuario/sistema-login-pdf.git
 cd sistema-login-pdf
@@ -47,17 +46,14 @@ sistema-login-pdf/
 ├── pdf_anexos/           
 ├── assets/              
 │  
-└── README.md            
+└── README.md   
+
 🆕 Guia de Navegação
 Tela de Login:
 
 Credenciais padrão: admin/1234
 
-Novo: Link para recuperação de senha
-
 Formulário Principal:
-
-Campos obrigatórios destacados
 
 Visualização de PDF antes do envio
 
