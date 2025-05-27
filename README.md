@@ -23,11 +23,11 @@ armazenamento em CSV e visualização de PDF, navegação e histórico completo.
 
 🛠️ Stack Tecnológica Atualizada
 Tecnologia	Versão	Finalidade	Ícone
-Python	3.11+	Linguagem base	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20">
-CustomTkinter	5.2.2	Interface gráfica moderna	<img src="https://customtkinter.tomschimansky.com/images/CustomTkinter_logo_small.png" width="20">
-Pandas	2.1.4	Manipulação de dados	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20">
-PyMuPDF	1.23.8	Visualização de PDF	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Adobe_Acrobat_DC_logo_2020.svg/1200px-Adobe_Acrobat_DC_logo_2020.svg.png" width="20">
-Pillow	10.1.0	Processamento de imagens	<img src="https://pillow.readthedocs.io/en/stable/_static/pillow-logo.png" width="20">
+Python	3.11+	Linguagem base	
+CustomTkinter	5.2.2	Interface gráfica moderna	
+Pandas	2.1.4	Manipulação de dados	
+PyMuPDF	1.23.8	Visualização de PDF	
+Pillow	10.1.0	Processamento de imagens	
 🚀 Como Executar (Atualizado)
 bash
 # Clone o repositório
@@ -41,14 +41,13 @@ pip install PyMuPDF pillow pandas customtkinter
 python app.py
 📂  Estrutura do Projeto
 sistema-login-pdf/
-├── app.py                # Código principal atualizado
-├── requirements.txt      # Novas dependências
-├── dados.csv             # Armazenamento dos registros
-├── pdf_anexos/           # Pasta para PDFs enviados
-├── assets/               # Recursos visuais
-│   ├── icons/            # Ícones do sistema
-│   
-└── README.md             # Documentação atualizada
+├── app.py                
+├── requirements.txt      
+├── dados.csv             
+├── pdf_anexos/           
+├── assets/              
+│  
+└── README.md            
 🆕 Guia de Navegação
 Tela de Login:
 
@@ -70,13 +69,7 @@ Lista completa de envios
 
 Visualização de PDFs antigos
 
-Exportação para Excel (nova funcionalidade)
-
 Visualizador de PDF:
-
-
-
-Navegação entre páginas (novo)
 
 Botão de voltar para o histórico
 
