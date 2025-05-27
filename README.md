@@ -69,12 +69,7 @@ Visualizador de PDF:
 
 Botão de voltar para o histórico
 
-🛠️ Personalização Avançada
-python
-# Configurações personalizáveis no código
-TEMA_APLICATIVO = "dark"  # dark, light, system
-COR_PRIMARIA = "#1e5387"   # Azul personalizado
-TAMANHO_MAX_PDF = 10       # Em MB (aumentado de 5)
+
 🤝 Como Contribuir
 Reporte bugs através de Issues
 
